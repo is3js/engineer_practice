@@ -6,7 +6,7 @@
 
   - 번호가 매겨진 ipynb마다 sql 일부 및 python으로 구현된 코드및 주석으로 코드 설명이 구현되어있습니다.
 
-    1. `01. DBconnect_and_Save_To_DataFrame.ipynb` : DB 접속 및 데이터 저장
+    1. `01_DBconnect_and_Save_To_DataFrame.ipynb` : DB 접속 및 데이터 저장
     2. `02_Load_Local_DataFrame_and_Quesions_1~7.ipynb` : 데이터 로드 및 연습문제 1~7 풀이과정
     3. `03_Entire_Code_and_Results.ipynb` : 전체 코드 및 주석만 정리하여 문제당 결과물만 표시
 
