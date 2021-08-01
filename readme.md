@@ -5,7 +5,7 @@
 - 분석을 위해 제공된 DB 중 분석에 사용된 칼럼 위주로 diagram을 그리면서 분석을 시도했습니다. 주 분석도구는 Anaconda환경의 jupyter notebook입니다.
 
   - 번호가 매겨진 ipynb마다 sql 일부 및 python으로 구현된 코드및 주석으로 코드 설명이 구현되어있습니다.
-  - 구현된 코드 및 결과물 확인만 원하는 경우 가장 마지막 ipynb인 `03_Total_Code_and_Results.ipynb`의 하나씩 Run하면 됩니다.
+  - 구현된 코드 및 결과물 확인만 원하는 경우 가장 마지막 ipynb인 `03_Entire_Code_and_Results.ipynb`의 하나씩 Run하면 됩니다.
 
 - 분석 과정
 
